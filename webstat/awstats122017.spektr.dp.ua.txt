@@ -1,0 +1,401 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201712 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.spektr.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2677                
+POS_VISITOR 9590                
+POS_DAY 10810               
+POS_DOMAIN 3344                
+POS_LOGIN 3574                
+POS_ROBOT 3729                
+POS_WORMS 4215                
+POS_EMAILSENDER 4346                
+POS_EMAILRECEIVER 4489                
+POS_SESSION 11413               
+POS_SIDER 11570               
+POS_FILETYPES 4624                
+POS_DOWNLOADS 4742                
+POS_OS 5013                
+POS_BROWSER 5166                
+POS_SCREENSIZE 5597                
+POS_UNKNOWNREFERER 5671                
+POS_UNKNOWNREFERERBROWSER 5758                
+POS_ORIGIN 5840                
+POS_SEREFERRALS 5974                
+POS_PAGEREFS 6118                
+POS_SEARCHWORDS 6296                
+POS_KEYWORDS 6448                
+POS_MISC 2340                
+POS_ERRORS 6507                
+POS_CLUSTER 3430                
+POS_SIDER_404 6617                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180101152934 1 0 9441974493608
+FirstTime 20171201002053
+LastTime 20171231103312
+LastUpdate 20180102000353 1 0 0 0 0
+TotalVisits 58                  
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 18 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 17 24374 22 34 20384
+1 6 6 36398 9 12 3247
+2 2 2 18199 9 17 5344
+3 5 5 36398 9 14 12392
+4 2 2 18199 10 16 14090
+5 6 6 18199 12 17 2570
+6 2 2 18199 15 20 4870
+7 1 1 0 5 11 23051
+8 12 12 707954 6 14 2588
+9 9 9 709485 2 4 416
+10 10 10 709485 2 8 1726
+11 0 0 0 12 21 461703
+12 1 1 0 7 12 41593
+13 1 1 0 12 22 3152
+14 0 0 0 7 16 4408
+15 2 2 0 5 11 2195
+16 9 9 34985 10 19 10580
+17 2 2 18199 6 7 1034
+18 3 3 27481 8 11 834
+19 2 2 0 8 15 65066
+20 3 3 18199 9 10 1256
+21 6 6 18200 7 10 2470
+22 65 65 77167 35 55 574084
+23 5 5 36398 13 21 3844
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 171 171 2527519
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 54 566155 20171231150354 0
+yandex 36 157424 20171230231521 0
+ahrefsbot 9 483789 20171225113930 0
+wordpress 5 0 20171227222959 0
+netcraft 3 0 20171207013143 0
+dataprovider\.com 2 0 20171218050347 0
+bbot 2 0 20171217044653 0
+ips\-agent 1 0 20171219104623 0
+bingbot 1 0 20171216204039 0
+python 1 0 20171217021643 0
+surveybot 1 0 20171215150010 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 58 176358 0 0
+php 111 2349071 0 0
+xml 2 2090 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/2014/12/%D0%9F%D1%80%D0%B0%D0%B9%D1%81-%D0%9F%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-%D0%BE%D0%B3%D0%BD%D0%B5%D1%82%D1%83%D1%88%D0%B8%D0%BB%D0%B5%D0%B9-%D1%81-01.11.14.xls 1 0 37376
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win7 43 43
+macosx 18 18
+linux 2 2
+linuxandroid 1 1
+win10 104 104
+win8.1 2 2
+macosx6 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome56.0.2924.87 1 1
+firefox46.0 1 1
+chrome45.0.2454.94 1 1
+chrome37.0.2062.120 1 1
+firefox47.0 1 1
+chrome58.0.3029.110 5 5
+chrome45.0.2454.93 1 1
+opera44.0.2510.857 1 1
+opera12.01 1 1
+firefox48.0 23 23
+firefox50.0 14 14
+firefox17.0 37 37
+chrome58.0.3029.81 1 1
+opera36.0.2130.32 6 6
+chrome11.0.698.0 1 1
+opera44.0.2510.1449 2 2
+chrome61.0.3163.100 73 73
+chrome26.0.1410.63 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 164 164
+From1 0 0
+From2 0 0
+From3 1 1
+From4 6 6
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://burger-imperia.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 254 41035
+500 2 620
+301 8 464
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 68
+/abouts-tus/ 2 -
+/wp-content/plugins/simple-ads-manager/js/slider/tmpl.js 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+/wp-content/plugins/searchreplacedb2.php 1 -
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 1 -
+/wp-content/plugins/./simple-image-manipulator/controller/download.php 1 -
+/o-nas.html 1 -
+/wp-json/wp/v2/users/ 3 -
+/12l.php 2 -
+/wp-content/themes/twentyfifteen/404.php 4 -
+/wp-content/themes/twentyfifteen/functions.php 2 -
+/license.php 2 -
+/sitemap.xml 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 1 -
+/kabeli-silovye.html 2 -
+/srduoabuisvivdk 1 -
+/wp-content/plugins/wp-symposium/server/php/index.php 1 -
+/roundcubemail 1 -
+/feed/ 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/wp-content/plugins/wp-mobile-detector/cache/db.php 1 -
+/wp-content/plugins/ubh/up.php 1 http://spektr.dp.ua/wp-content/plugins/ubh/up.php
+/roundcube 1 -
+/readme.php 2 -
+/spect.dp.ua 1 -
+/wp-includes/searchreplacedb2.php 1 -
+/horde 1 -
+/up.php 2 -
+/comments/feed/ 1 -
+/sitemap.php 2 -
+/squirrelmail 1 -
+/mail 1 -
+/security.php 2 -
+/wp-content/themes/twentyfifteen/searchreplacedb2.php 1 -
+/sh.php 2 -
+/setup.php 4 -
+/wp-content/plugins/wp-symposium/server/php/sXpyKKTdfIzKdd.php 1 -
+/wp-content/themes/twentyten/searchreplacedb2.php 1 -
+/wp-content/uploader.php 2 http://spektr.dp.ua/wp-content/uploader.php
+/sfudhif 1 -
+/wp-content/plugins/wp-mobile-detector/resize.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 1 -
+/plugin.php 2 -
+/conf.ini.php 1 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 1 -
+/provoda-samye-luchshie.html 1 -
+/robots.php 2 -
+//wp-content/plugins/woocommerce-products-designer/readme.txt 1 -
+/roots.php 1 http://spektr.dp.ua/roots.php
+/wp-content/plugins/recent-backups/download-file.php 1 -
+/wp-admin/searchreplacedb2.php 1 -
+/wp-content/plugins/contact-form-7/searchreplacedb2.php 1 -
+/login.php 1 http://spektr.dp.ua/login.php
+/squirrel 1 -
+//wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 1 -
+/wp-content/uploader.php.suspected 2 http://spektr.dp.ua/wp-content/uploader.php.suspected
+/kabeli-izmeritelnye-termoradiatsionnostoykie.html 2 -
+/ 64 http://spektr.dp.ua/
+/robots.txt 99 -
+/wp-includes/css/modules.php 1 http://spektr.dp.ua/wp-includes/css/modules.php
+/webmail 1 -
+/wp-content/uploads/wp-security.php 2 -
+/wp-content/searchreplacedb2.php 1 -
+/wp-content/themes/twentyeleven/searchreplacedb2.php 1 -
+/shell.php 2 -
+/wp-content/themes/searchreplacedb2.php 1 -
+/wp-content/themes/twentyfourteen/searchreplacedb2.php 1 -
+/wp-content/wp-link.php 1 http://spektr.dp.ua/wp-content/wp-link.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+179.111.217.105 60 60 40769 20171224220803
+82.165.70.195 18 18 1418970 20171226094740
+13.56.229.65 11 11 0 20171231054819
+109.236.87.212 11 11 100277 20171209050207
+217.23.12.158 10 10 90995 20171211022730
+35.196.66.153 10 10 707954 20171229085121
+5.254.97.105 8 8 72796 20171215034502
+45.32.79.85 6 6 4739 20171202004647
+185.45.13.148 6 6 54597 20171213044556
+83.143.240.3 4 4 1251 20171226000741
+184.174.118.61 1 1 0 20171207205936
+109.86.72.163 1 1 0 20171227054718
+52.53.129.101 2 2 0 20171205162109
+173.211.102.178 1 1 0 20171222233150
+37.147.108.24 1 1 0 20171226030143
+52.39.50.140 1 1 0 20171208052526
+176.116.2.188 1 1 0 20171231103312
+91.237.247.62 1 1 0 20171230150256
+216.74.109.155 1 1 0 20171201003513
+202.46.53.14 1 1 0 20171201133424
+158.46.167.59 1 1 0 20171215085156
+95.213.141.124 1 1 0 20171211212846
+188.190.198.125 2 2 366 20171201165501
+178.137.18.237 1 1 0 20171201164629
+185.81.157.39 1 1 0 20171206003855
+213.183.51.182 1 1 0 20171204012945
+198.50.159.10 4 4 16604 20171207165216
+142.4.218.236 1 1 0 20171218050348
+5.61.40.120 1 1 1 20171215210228
+185.45.13.147 2 2 18199 20171216013653
+78.85.135.85 1 1 1 20171203000140
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20171201 5 5 366 5
+20171202 6 6 4739 1
+20171203 2 2 1 2
+20171204 1 1 0 1
+20171205 1 1 0 1
+20171206 2 2 0 2
+20171207 7 7 34803 3
+20171208 6 6 45680 4
+20171209 9 9 72796 5
+20171210 5 5 36398 3
+20171211 3 3 18199 2
+20171212 5 5 36398 3
+20171213 4 4 36398 2
+20171214 5 5 36398 3
+20171215 4 4 18200 3
+20171216 3 3 18199 2
+20171218 2 2 0 2
+20171221 1 1 0 1
+20171222 1 1 0 1
+20171223 1 1 0 1
+20171224 60 60 40769 1
+20171225 9 9 709485 1
+20171226 14 14 710736 3
+20171227 1 1 0 1
+20171228 1 1 0 1
+20171229 10 10 707954 1
+20171230 1 1 0 1
+20171231 2 2 0 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 57
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/xmlrpc.php 86 2184270 2 6
+/ 39 0 33 28
+/myadmin/ 19 176358 19 1
+/myadmin/index.php 18 160506 0 18
+//wp-admin/admin-ajax.php 2 2 2 2
+/wp-includes/wlwmanifest.xml 2 2090 0 0
+/wp-admin/admin-ajax.php 2 2 0 0
+/wp-content/themes/twentytwelve/404.php 1 182 1 1
+/wp-login.php 1 3925 0 1
+/wp-content/themes/twentythirteen/404.php 1 184 1 1
+END_SIDER

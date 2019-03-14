@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/spektr.dp.ua/webstat"
+AuthUserFile /home/380675994444/data/etc/44782854.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

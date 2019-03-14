@@ -1,0 +1,725 @@
+AWSTATS DATA FILE 7.1 (build 1.983)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.spektr.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2674                
+POS_VISITOR 12798               
+POS_DAY 21902               
+POS_DOMAIN 3492                
+POS_LOGIN 3725                
+POS_ROBOT 3880                
+POS_WORMS 4055                
+POS_EMAILSENDER 4186                
+POS_EMAILRECEIVER 4329                
+POS_SESSION 22758               
+POS_SIDER 22968               
+POS_FILETYPES 4464                
+POS_DOWNLOADS 4755                
+POS_OS 5026                
+POS_BROWSER 5107                
+POS_SCREENSIZE 6048                
+POS_UNKNOWNREFERER 6122                
+POS_UNKNOWNREFERERBROWSER 7445                
+POS_ORIGIN 7846                
+POS_SEREFERRALS 7988                
+POS_PAGEREFS 8132                
+POS_SEARCHWORDS 8552                
+POS_KEYWORDS 8704                
+POS_MISC 2337                
+POS_ERRORS 8763                
+POS_CLUSTER 3581                
+POS_SIDER_404 8886                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150801003823 1 0 9672975031405
+FirstTime 20150701001718
+LastTime 20150731232704
+LastUpdate 20150802000510 1 0 0 0 0
+TotalVisits 676                 
+TotalUnique 230                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 239                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 26 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 42 42 113559 12 16 24490
+1 13 14 110718 2 4 21676
+2 70 75 1230268 13 20 87684
+3 24 24 332839 11 15 87270
+4 26 27 492921 11 17 110406
+5 23 27 391283 16 21 46760
+6 41 71 1995988 14 20 47881
+7 58 120 1727068 10 14 26951
+8 31 79 1173436 3 7 23322
+9 50 181 3431991 12 16 45555
+10 133 236 5342071 3 8 3743
+11 25 53 738919 10 15 42432
+12 76 222 4034310 16 29 293273
+13 58 136 3796838 542 549 2056746
+14 46 99 4055897 9 15 26559
+15 54 254 6281746 11 22 155343
+16 51 106 1620684 24 34 199860
+17 29 57 802522 15 24 71752
+18 35 36 313944 15 23 89513
+19 53 261 6208814 17 23 235192
+20 54 106 3195862 13 20 91023
+21 141 225 8810100 12 52 31399
+22 136 167 6604545 31 47 26896
+23 44 49 518424 8 13 44289
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1313 2667 63324747
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 610 3673635 20150727035445 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 31 740227 0 0
+css 269 3949180 0 0
+png 297 3791863 0 0
+woff 9 206496 0 0
+php 568 7431902 0 0
+html 705 16789074 0 0
+js 629 10629435 0 0
+jpg 72 18728844 0 0
+jpeg 21 351131 0 0
+xls 1 37376 0 0
+svg 2 3042 0 0
+gif 63 666177 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/2014/12/%D0%9F%D1%80%D0%B0%D0%B9%D1%81-%D0%9F%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-%D0%BE%D0%B3%D0%BD%D0%B5%D1%82%D1%83%D1%88%D0%B8%D0%BB%D0%B5%D0%B9-%D1%81-01.11.14.xls 1 0 37376
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 611 539
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 46
+msie6.0 4 4
+chrome40.0.2214.115 2 2
+chrome11.0.696.0 1 1
+chrome29.0.1547.57 28 1
+firefox3.6 160 160
+chrome38.0.2125.104 61 8
+chrome23.0.1271.6 2 2
+chrome28.0.1500.95 34 1
+firefox18.0 8 8
+chrome31.0.1650.57 89 3
+chrome36.0.1985.125 2 2
+chrome31.0.1650.63 28 1
+firefox24.0 30 3
+opera9.80 475 255
+firefox31.0 5 5
+msie8.0 122 26
+firefox6.0.2 1 1
+chrome41.0.2272.101 4 4
+msie7.0 1 1
+firefox3.6.1 2 2
+chrome37.0.2062.120 1 1
+chrome41.0.2272.89 3 3
+safari8.0 202 13
+msie9.0 29 2
+chrome42.0.2311.152 24 1
+Unknown 192 182
+firefox3.5.6 1 1
+msie5.01 1 1
+chrome37.0.2049.0 4 4
+firefox29.0 11 11
+safari6.0 9 9
+chrome36.0.1985.67 10 10
+firefox38.0 23 1
+firefox3.5.2 3 3
+chrome43.0.2357.132 87 9
+chrome23.0.1271.17 2 2
+chrome43.0.2357.130 49 2
+safari4.0 2 2
+firefox39.0 60 3
+firefox25.0 1 1
+firefox37.0 2 2
+msie10.0 159 33
+chrome26.0.1410.63 15 15
+chrome43.0.2357.134 143 23
+firefox36.0 11 11
+safari 26 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 22
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20150731225811
+visionutils/0.2 20150715125753
+Mozilla/5.0_(compatible;_meanpathbot/1.0;__http://www.meanpath.com/meanpathbot.html) 20150728065458
+Python-urllib/2.7 20150718002526
+libwww-perl/5.834 20150701035840
+Mozilla/5.0_(compatible;_Baiduspider/2.0;__http://www.baidu.com/search/spider.html) 20150731060906
+Googlebot-Image/1.0 20150714085237
+libwww-perl/5.805 20150712180351
+Mozilla/5.0_(compatible;_bingbot/2.0;__http://www.bing.com/bingbot.htm) 20150727121353
+libwww-perl/6.08 20150721065207
+Mozilla/3.0_(compatible;_Indy_Library) 20150719230448
+Mozilla/5.0_(compatible;_Yahoo!_Slurp;_http://help.yahoo.com/help/us/ysearch/slurp) 20150730135405
+C-T_bot 20150705161927
+libwww-perl/5.833 20150702233741
+WordPress/4.0.1;_http://spektr.dp.ua 20150731194026
+WordPress/4.0.1;_http://spektr.dp.ua/ukr 20150731231300
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20150731100141
+libwww-perl/6.03 20150724025228
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150715125747
+Mozilla/5.0_(compatible;_AhrefsBot/5.0;__http://ahrefs.com/robot/) 20150731232704
+libwww-perl/6.05 20150723003842
+libwww-perl/6.13 20150720164900
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+C-T_bot 20150705161927
+WordPress/4.0.1;_http://spektr.dp.ua 20150731194026
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150715125747
+visionutils/0.2 20150715125753
+Googlebot-Image/1.0 20150714085237
+Python-urllib/2.7 20150718002526
+WordPress/4.0.1;_http://spektr.dp.ua/ukr 20150731231300
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 930 1003
+From1 2 2
+From2 0 0
+From3 43 44
+From4 338 1618
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://yandex.ru/clck/jsredir 29 29
+https://www.google.com.ua 6 6
+http://whois.domaintools.com/spektr.dp.ua 3 3
+http://www.google.com.ua 2 2
+http://pizza-tycoon.com 1 1
+http://yandex.ua/clck/jsredir 1 1
+http://www.google.com.ua/url 1 1
+http://www.google.ru/blank.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+302 40 0
+206 7 74657
+404 313 116145
+301 28 2334
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 81
+/ 2 -
+/robots.txt 111 -
+/provoda-neizolirovannye-gibkie/plletenka-pml.html 2 -
+/admin.php 1 -
+/kabeli-kontrolnye.html 1 -
+/%3Fpage_id%3D35&amp 1 -
+/%3Fpage_id%3D89&amp 5 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/xxx.php 2 -
+/lost-password.html 1 -
+/feed/ 1 -
+/%3Fpage_id%3D69&amp 4 -
+/%3Fpage_id%3D99&amp 5 -
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/xxx.php 2 -
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/lahore.php 3 -
+/%3Fpage_id%3D113&amp 2 -
+/wp-content/uploads/2014/12/Telefon-Spectr.jpg 12 -
+/index2.php 2 -
+/kontakty/kontakty-ooo-spektr/ 1 -
+/katalog-produktsii.html 2 -
+/%3Fpage_id%3D125&amp 2 -
+/provoda-s-izolyatsiey.html 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/love.php 2 -
+/%3Fpage_id%3D93&amp 1 -
+/ukr/wp-content/plugins/showbiz/temp/update_extract/showbiz/ari.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/wp-feed-file.php 1 -
+/kabeli-izmeritelnye-termoradiatsionnostoykie.html 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/joss.php 2 -
+/provoda-kak-provoda.html 1 -
+/%3Fpage_id%3D81&amp 6 -
+/%3Fpage_id%3D117&amp 4 -
+/karta-sayta/ 3 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/demit.php 1 -
+/provoda-samye-luchshie.html 2 -
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/cache.php 2 -
+/wp-update.php 2 http://spektr.dp.ua/wp-update.php
+/wp-content/uploads/2014/11/cropped-1.jpg 3 http://spektr.dp.ua/
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/love.php 2 -
+/ukr/wp-content/plugins/revslider/temp/update_extract/revslider/demit.php 1 -
+/ukr/&amp 1 -
+/%3Fpage_id%3D101&amp 2 -
+/ukr/%3Fpage_id%3D35&amp 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/lahore.php 3 -
+/%3Fpage_id%3D121&amp 1 -
+/kabeli-silovye.html 2 -
+/%3Fpage_id%3D123&amp 2 -
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/ari.php 1 -
+/wp-content/uploads/2014/12/%D0%B0%D0%B0-300x68.png 11 http://spektr.dp.ua/
+/create-customer-account.html 2 -
+/wp-content/plugins/showbiz/temp/update_extract/revslider/get.php 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/cx.php 2 -
+/%3Fpage_id%3D73&amp 1 -
+/o-nas.html 2 -
+/lost-user-name.html 2 -
+/provoda-neizolirovannye-gibkie/provod-amg.html 1 -
+/ukr/%3Fpage_id%3D33&amp 8 -
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/arhy.php 2 -
+/ukr/%3Fpage_id%3D103&amp 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/arhy.php 2 -
+/wp-content/uploads/2014/11/3-300x75.jpg 11 http://spektr.dp.ua/
+/%3Fpage_id%3D77&amp 7 -
+/ukr/%3Fpage_id%3D41&amp 1 -
+/%3Fp%3D24&amp 1 -
+/%3Fpage_id%3D71&amp 2 -
+/%3Fpage_id%3D131&amp 4 -
+/%3Fpage_id%3D79&amp 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/index2.php 3 -
+/wp-content/plugins/front-end-editor/readme.txt 1 http://spektr.dp.ua/wp-content/plugins/front-end-editor/readme.txt
+/wp-content/plugins/showbiz/temp/update_extract/showbiz/index2.php 3 -
+/kabeli-elektricheskie-pozharostoykie-spetsialnogo-naznacheniya.html 1 -
+/administrator/index.php 1 -
+/%3Fpage_id%3D154&amp 1 -
+/provoda-bez-izolyatsii.html 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/cache.php 2 -
+/wp-content/uploads/2014/11/cropped-1-300x75.jpg 11 http://spektr.dp.ua/
+/%3Fpage_id%3D89 1 -
+/stati/ 1 -
+/wp-content/uploads/2014/12/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-%D0%BE%D1%82-2014-12-05-115124-300x235.png 1 http://spektr.dp.ua/
+/%3Fpage_id%3D111&amp 3 -
+/%3Fpage_id%3D197&amp 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/get.php 2 -
+/kabeli-upravleniya-1.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 239
+94.153.43.44 227 478 21515635 20150730065642
+195.248.190.128 179 179 0 20150731231300
+209.190.113.85 103 103 2423919 20150720100912
+5.255.253.80 74 75 1309124 20150731015646
+178.238.222.63 41 41 738318 20150724090018
+5.255.253.23 32 32 564697 20150731040257
+91.232.21.94 26 26 95361 20150710140722
+66.249.64.121 19 28 596503 20150725052606
+5.255.253.200 17 17 194685 20150729152340
+66.249.64.3 17 24 599686 20150725090735
+183.111.169.91 2 2 2 20150711070816
+180.76.15.140 4 4 91395 20150728094325
+37.112.32.248 1 28 343472 20150707090239
+212.227.252.177 2 2 2 20150726153528
+180.76.15.161 0 1 5151 
+151.80.31.153 2 2 43203 20150725132612
+100.43.81.133 1 1 21910 20150702020915
+178.54.16.30 2 32 1453048 20150713133657
+176.193.211.27 1 28 378860 20150707090238
+173.208.180.90 1 1 1 20150728092341
+217.69.133.169 8 8 175490 20150730180612
+64.246.165.160 1 1 22015 20150730002705
+200.26.137.118 1 1 1 20150711183206
+157.55.39.149 1 1 21910 20150705020332
+66.249.64.253 8 9 174822 20150708161334
+185.5.96.107 2 2 2 20150725221626
+94.23.204.54 3 3 3 20150702171904
+194.63.248.50 2 2 2 20150730201921
+173.252.102.114 0 1 22625 
+66.249.67.64 8 20 341210 20150731084612
+180.76.15.162 5 6 130310 20150724231056
+79.164.134.43 4 21 323685 20150730092429
+188.165.15.108 5 5 89123 20150731232704
+194.31.46.56 1 1 22015 20150718070130
+94.79.4.193 1 24 366271 20150708121937
+177.54.155.4 4 4 4 20150730202315
+158.255.66.129 2 2 2 20150705105535
+76.163.25.110 2 2 2 20150720164900
+173.252.121.118 0 1 20657 
+180.76.15.159 1 1 20840 20150724052936
+180.76.15.151 1 2 36301 20150726095927
+173.252.102.118 0 1 20657 
+91.121.89.16 12 12 12 20150729133357
+173.252.88.180 1 1 26236 20150715125741
+188.165.15.59 5 5 22309 20150704145828
+67.205.67.106 4 4 4 20150724231925
+180.76.15.163 1 1 20642 20150705225442
+109.123.101.189 1 1 1 20150705163153
+203.140.70.10 2 2 2 20150712124342
+128.69.184.186 2 18 292057 20150716131613
+207.46.13.72 1 1 61624 20150722130158
+179.188.17.52 6 6 6 20150702231829
+185.52.28.43 1 23 366089 20150706103753
+85.128.142.65 2 2 2 20150724233402
+95.24.180.135 2 2 45712 20150730223814
+192.99.107.49 1 1 21910 20150713150945
+85.214.208.55 1 1 1 20150701035840
+94.178.125.173 7 37 1600389 20150729150957
+166.63.123.227 1 1 1 20150723225235
+5.35.111.143 4 21 417765 20150705070415
+46.211.0.220 3 28 1307862 20150715133559
+178.124.163.77 0 1 457329 
+95.84.181.195 6 34 579979 20150706153652
+64.246.187.42 1 1 21910 20150716181729
+64.246.165.170 1 1 699 20150705155208
+64.207.189.137 1 1 1 20150704174126
+89.178.173.106 2 2 45721 20150731095402
+212.227.99.47 1 1 1 20150712180351
+46.211.1.119 1 31 1431272 20150718104046
+157.55.39.133 1 1 22015 20150720054628
+180.76.15.137 3 4 111206 20150722112354
+46.148.18.226 4 4 11320 20150725221025
+198.46.129.196 6 6 6 20150713142649
+95.25.91.146 2 2 45818 20150729160309
+180.76.15.138 4 5 186903 20150723053513
+52.69.88.67 2 2 2 20150723003842
+95.220.5.78 1 34 1443603 20150717190230
+109.188.133.175 0 1 100794 
+46.46.97.6 2 2 53277 20150725175144
+177.70.23.11 1 1 1 20150707163245
+82.165.151.207 6 6 6 20150704030615
+192.163.227.235 2 2 2 20150718173526
+89.178.89.50 4 20 324029 20150705070425
+93.80.46.23 2 2 41228 20150729210353
+94.23.82.144 2 2 2 20150705165658
+109.111.182.199 2 2 83639 20150722061624
+66.249.75.81 5 10 170936 20150730192131
+176.14.218.88 1 28 338084 20150717190229
+91.232.21.235 2 2 27608 20150701233538
+192.99.107.115 1 1 22015 20150720202049
+62.210.214.249 4 4 4 20150727003327
+176.14.86.167 2 18 380710 20150706164546
+78.85.174.120 1 1 21910 20150713021300
+185.95.20.3 11 33 501704 20150720161120
+180.76.15.146 2 2 41622 20150719145518
+192.99.107.190 1 1 21910 20150707203107
+46.105.214.200 1 1 1 20150706114702
+176.31.107.29 3 3 3 20150730132410
+66.249.79.132 0 3 56961 
+180.76.15.156 1 1 21910 20150712235357
+66.249.64.248 7 10 224254 20150708004309
+66.249.75.73 4 5 86355 20150703225058
+193.144.12.130 3 3 3 20150706201556
+66.249.73.200 3 3 63591 20150718124544
+85.25.92.109 2 2 2 20150721233814
+180.76.15.148 1 1 22015 20150729102746
+79.118.152.34 3 3 3 20150706194433
+5.165.253.169 3 18 313621 20150705124416
+63.142.251.157 3 3 3 20150704002627
+95.25.108.42 2 2 45683 20150731135650
+212.90.60.132 2 26 428153 20150704115305
+157.55.39.136 1 1 22015 20150727121335
+5.39.82.4 3 3 3 20150720220114
+128.69.147.189 3 18 313621 20150706165622
+95.108.158.220 9 9 58082 20150731100141
+207.46.13.137 1 1 61624 20150727121353
+46.20.44.18 2 2 2 20150712072917
+37.187.135.11 2 2 2 20150720163819
+180.76.15.152 1 1 22015 20150725012823
+104.238.191.127 1 1 1 20150716071342
+208.117.45.190 1 1 1 20150705040238
+93.72.126.40 4 4 167068 20150709064539
+217.69.133.192 1 1 21910 20150704171108
+46.105.220.178 3 3 3 20150731231336
+192.99.107.68 1 1 22015 20150728065458
+151.80.145.3 1 1 1 20150705185637
+37.55.51.159 1 1 31109 20150718162635
+207.46.13.118 1 1 21910 20150702151507
+188.233.34.71 1 1 2766 20150723041400
+109.163.234.8 1 1 22015 20150717021454
+50.57.95.64 3 3 3 20150702023729
+212.93.222.10 2 2 2 20150704112319
+81.88.49.46 2 2 2 20150726045539
+93.81.82.120 2 18 380710 20150705124343
+68.180.230.218 1 1 31262 20150717021316
+78.36.40.181 1 24 366271 20150707102404
+151.80.31.154 7 7 148960 20150719195614
+180.76.15.160 3 3 65412 20150717180044
+95.30.10.42 1 24 366271 20150719155759
+37.204.76.144 4 21 364500 20150705070415
+190.196.2.205 6 6 6 20150730175932
+151.80.31.150 3 3 63395 20150713192604
+180.76.15.155 1 1 22133 20150717122318
+89.178.182.127 2 2 45723 20150730034051
+212.56.214.66 1 1 1 20150718002526
+176.77.76.235 1 28 378860 20150717190230
+182.50.130.110 2 2 2 20150723095521
+45.79.147.76 1 1 1 20150721065207
+66.249.67.58 5 11 149583 20150731225811
+157.55.39.22 1 1 21910 20150713123724
+203.175.174.66 1 1 1 20150702161556
+66.249.64.130 5 6 113319 20150707050136
+5.9.73.195 6 6 6 20150726075325
+95.25.93.142 4 4 91466 20150730180605
+188.32.49.255 2 2 53124 20150723110839
+5.255.253.228 1 1 22133 20150729162524
+178.161.150.237 1 24 330883 20150723120536
+5.101.119.30 2 2 2 20150708051021
+89.178.251.230 2 2 83639 20150721090021
+80.93.221.228 1 1 1 20150702233741
+180.76.15.135 2 2 41738 20150727043355
+213.154.212.197 7 55 1778841 20150715125815
+213.236.166.76 2 2 2 20150705063410
+173.252.102.113 0 1 14520 
+64.246.161.30 1 1 699 20150719080635
+95.108.158.234 2 2 41698 20150704114609
+81.21.70.198 6 6 6 20150730181129
+180.76.15.150 1 1 20784 20150710075902
+91.221.150.231 1 1 1 20150706020603
+151.80.31.152 5 5 114984 20150730200744
+79.174.67.144 2 2 2 20150707123316
+180.76.15.158 2 2 42514 20150727121309
+157.55.39.250 1 1 21910 20150702054023
+5.172.44.35 5 5 5 20150706045821
+37.140.141.28 5 5 84893 20150725172344
+5.10.105.47 1 1 1 20150719232117
+199.38.217.144 6 6 6 20150726152653
+69.28.90.36 2 2 2 20150721183858
+64.246.165.180 1 1 21910 20150702131536
+194.31.46.73 2 2 27608 20150723181226
+83.149.8.176 2 2 53019 20150715204945
+89.178.66.207 4 21 364500 20150730084450
+173.252.105.113 0 1 20657 
+186.33.233.169 2 2 21177 20150705194208
+180.76.15.134 1 1 23919 20150706213145
+198.100.154.10 6 6 6 20150730074436
+217.69.133.60 1 1 22015 20150728031733
+66.249.75.65 1 2 68250 20150703143425
+78.107.11.59 2 29 405813 20150703082003
+212.40.7.66 1 1 1 20150716225904
+91.109.3.88 1 1 1 20150729141440
+37.187.39.232 2 2 2 20150722063906
+89.178.165.74 2 2 45760 20150731175756
+69.28.84.64 1 1 1 20150722090741
+46.211.4.173 1 16 1326503 20150715145210
+157.55.39.186 1 1 21910 20150716014850
+66.249.64.126 15 16 308853 20150725052212
+80.78.39.19 1 24 366271 20150713171314
+46.73.115.146 2 18 286669 20150716131616
+202.46.56.190 1 1 21910 20150701102325
+180.76.15.141 1 1 20812 20150707232340
+68.180.230.176 5 5 93465 20150730135405
+176.77.51.113 1 33 1394145 20150707090239
+180.76.15.147 2 2 43053 20150730143006
+212.33.255.53 2 2 43820 20150705161928
+45.58.35.110 1 1 1 20150718120756
+5.200.53.15 1 1 21910 20150711154621
+180.76.15.143 2 2 41689 20150729002920
+207.46.13.49 1 1 61624 20150704214816
+180.76.15.136 1 2 29333 20150709123116
+93.80.62.54 2 2 45691 20150729232737
+85.17.23.18 1 1 1 20150715224330
+180.76.15.139 2 2 41797 20150731060906
+193.34.154.4 3 59 1462978 20150729153524
+87.106.226.151 2 2 2 20150723023055
+180.76.15.157 4 4 96270 20150714150246
+195.206.47.26 1 1 22015 20150719230448
+37.144.30.127 1 28 432125 20150717190229
+95.25.136.162 2 2 45733 20150731024403
+83.170.215.186 8 42 1909144 20150727143949
+200.11.67.86 4 4 4 20150724064431
+5.61.35.15 1 1 1 20150721173005
+83.220.237.226 2 2 83639 20150726172400
+66.249.67.70 7 16 347268 20150731040430
+37.145.37.101 1 28 343472 20150717190229
+89.222.217.246 2 18 292057 20150705124331
+66.249.79.119 2 3 44466 20150717192415
+104.154.35.185 1 1 1 20150706104325
+85.198.188.95 10 62 1869608 20150716154442
+208.43.30.58 4 4 4 20150726135259
+151.80.31.151 2 2 1426 20150729003439
+94.153.178.110 1 24 330883 20150721163436
+91.135.76.69 1 1 1 20150730030715
+180.76.15.153 1 1 22015 20150721014331
+91.214.202.24 2 2 27608 20150731221223
+188.244.43.200 1 28 432125 20150707090238
+5.79.77.235 14 14 169302 20150726155721
+159.8.225.132 6 6 6 20150724025228
+5.45.64.205 2 2 24781 20150727230313
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20150701 25 26 239694 22
+20150702 70 71 1088737 36
+20150703 57 91 1328146 41
+20150704 46 71 836562 32
+20150705 51 160 2533220 27
+20150706 37 107 1659451 29
+20150707 24 164 3124197 19
+20150708 21 44 579116 12
+20150709 26 26 322980 23
+20150710 21 25 187255 20
+20150711 10 10 80200 10
+20150712 21 21 198125 18
+20150713 27 81 2149156 15
+20150714 8 16 143701 7
+20150715 42 165 6424824 20
+20150716 249 495 19778603 17
+20150717 21 166 3202693 20
+20150718 17 47 1591451 15
+20150719 19 43 540995 18
+20150720 156 178 3283642 28
+20150721 27 59 808037 21
+20150722 27 28 425284 21
+20150723 38 77 945755 23
+20150724 38 38 404234 30
+20150725 31 31 455118 23
+20150726 25 59 1774039 19
+20150727 32 67 2742756 19
+20150728 17 17 129246 14
+20150729 42 128 3347232 23
+20150730 55 123 2570155 31
+20150731 33 33 430143 23
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 13
+0s-30s 603
+2mn-5mn 7
+30s-2mn 8
+15mn-30mn 15
+30mn-1h 24
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/ 544 13503637 319 301
+/wp-admin/admin-ajax.php 179 195237 87 81
+/ukr/ 153 2870144 57 60
+/wp-cron.php 132 0 115 112
+//wp-admin/admin-ajax.php 52 52 31 31
+/ukr/wp-cron.php 47 0 35 38
+/wp-login.php 44 148309 32 29
+/wp-admin/load-scripts.php 23 1255366 0 0
+/wp-content/themes/formation/font/sourcesanspro-regular-webfont.eot 15 404295 0 9
+/ukr/wp-admin/admin-ajax.php 15 1648 0 9
+/wp-content/themes/formation/font/genericons-regular-webfont.eot 6 47760 0 6
+/wp-admin/post-new.php 1 155219 0 0
+/wp-admin/load-styles.php 4 344313 0 0
+/ukr/wp-content/themes/formation/font/genericons-regular-webfont.woff 1 9240 0 0
+/wp-admin/index.php 3 172214 0 0
+/wp-admin/users.php 3 110137 0 0
+/ukr/wp-admin/load-styles.php 1 81818 0 0
+/wp-includes/fonts/dashicons.eot 1 37498 0 0
+/wp-content/themes/formation/font/sourcesanspro-bold-webfont.woff 2 59344 0 0
+/wp-admin/admin.php 3 176666 0 0
+/wp-admin/theme-install.php 1 40433 0 0
+/wp-admin/ 6 297520 0 0
+/ukr/wp-content/themes/formation/font/sourcesanspro-bold-webfont.woff 1 29672 0 0
+/wp-admin/edit-tags.php 2 85902 0 0
+/xmlrpc.php 1 42 0 0
+/wp-admin/post.php 15 2399450 0 0
+/wp-content/themes/formation/font/sourcesanspro-regular-webfont.woff 2 59840 0 0
+/ukr/xmlrpc.php 1 42 0 0
+/ukr/wp-admin/edit.php 1 59177 0 0
+/ukr/wp-content/themes/formation/font/sourcesanspro-regular-webfont.woff 1 29920 0 0
+/wp-admin/profile.php 11 420408 0 0
+/wp-admin/nav-menus.php 3 390369 0 0
+/ukr/wp-admin/ 2 117773 0 0
+/ukr/wp-includes/fonts/dashicons.eot 1 37498 0 0
+/wp-admin/update.php 2 47560 0 0
+/ukr/wp-admin/load-scripts.php 7 216112 0 0
+/ukr/wp-admin/users.php 1 36829 0 0
+/ukr/wp-admin/profile.php 2 76740 0 0
+/wp-includes/js/tinymce/wp-tinymce.php 1 134760 0 0
+/wp-content/themes/formation/font/sourcesanspro-bold-webfont.eot 8 213176 0 0
+/wp-content/themes/formation/font/genericons-regular-webfont.woff 2 18480 0 0
+/ukr/wp-login.php 3 8856 0 0
+/wp-admin/edit-comments.php 5 383430 0 0
+/wp-admin/edit.php 1 61763 0 0
+/wp-admin/customize.php 1 188138 0 0
+/wp-admin/upload.php 2 183324 0 0
+/wp-admin/themes.php 1 57588 0 0
+END_SIDER

@@ -1,0 +1,674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Formation v1.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-02-21 10:29:37+0000\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:11
+#@ Formation
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению, ничего не найдено."
+
+#: 404.php:20
+#@ Formation
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "К сожалению, ничего не найдено."
+
+#: 404.php:27
+#@ Formation
+msgid "Most Used Categories"
+msgstr "Популярные рубрики"
+
+#. translators: %1$s: smilie
+#: 404.php:35
+#, php-format
+#@ Formation
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Архив за месяц: %1$s"
+
+#: archive.php:16
+#, php-format
+#@ Formation
+msgid "Category Archives: %s"
+msgstr "Рубрика: %s"
+
+#: archive.php:19
+#, php-format
+#@ Formation
+msgid "Tag Archives: %s"
+msgstr "Метки: %s"
+
+#: archive.php:26
+#, php-format
+#@ Formation
+msgid "Author Archives: %s"
+msgstr "Автор: %s"
+
+#: archive.php:34
+#, php-format
+#@ Formation
+msgid "Daily Archives: %s"
+msgstr "День: %s"
+
+#: archive.php:37
+#, php-format
+#@ Formation
+msgid "Monthly Archives: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:40
+#, php-format
+#@ Formation
+msgid "Yearly Archives: %s"
+msgstr "Год: %s"
+
+#: archive.php:43
+#: sidebar.php:18
+#@ Formation
+msgid "Archives"
+msgstr "Архив"
+
+#: comments.php:32
+#, php-format
+#@ Formation
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:39
+#: comments.php:59
+#@ Formation
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:40
+#: comments.php:60
+#@ Formation
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:41
+#: comments.php:61
+#@ Formation
+msgid "Newer Comments &rarr;"
+msgstr "Новые комментарии &rarr;"
+
+#: comments.php:71
+#@ Formation
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-aside.php:11
+#: content-aside.php:20
+#: content.php:18
+#, php-format
+#@ Formation
+msgid "Permalink to %s"
+msgstr "%s"
+
+#: content-aside.php:15
+#@ Formation
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:16
+#: content-page.php:14
+#: content-single.php:21
+#: content.php:63
+#: image.php:86
+#@ Formation
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-aside.php:23
+#: content.php:48
+#: page-templates/blog-full-width.php:58
+#@ Formation
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+#: content-aside.php:23
+#: content.php:48
+#: page-templates/blog-full-width.php:58
+#@ Formation
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+#: content-aside.php:23
+#: content.php:48
+#: page-templates/blog-full-width.php:58
+#@ Formation
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+#: content-aside.php:26
+#: content-page.php:16
+#: content-single.php:59
+#: content.php:51
+#: image.php:34
+#: image.php:100
+#: page-templates/blog-full-width.php:61
+#: page-templates/blog-grid.php:57
+#@ Formation
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:27
+#: content.php:26
+#: content.php:36
+#: page-templates/blog-full-width.php:36
+#: page-templates/blog-full-width.php:46
+#: page-templates/blog-grid.php:36
+#: page-templates/blog-grid.php:46
+#@ Formation
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:35
+#, php-format
+#@ Formation
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Метки: %2$s. Добавить в закладки <a href=\"%3$s\" title=\"%4$s\" rel=\"bookmark\">запись</a>."
+
+#: content-single.php:37
+#, php-format
+#@ Formation
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Добавить в закладки <a href=\"%3$s\" title=\"%4$s\" rel=\"bookmark\">запись</a>."
+
+#: content-single.php:43
+#, php-format
+#@ Formation
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Опубликовано: %1$s, метки: %2$s. Добавить в закладки <a href=\"%3$s\" title=\"%4$s\" rel=\"bookmark\">запись</a>."
+
+#: content-single.php:45
+#, php-format
+#@ Formation
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Опубликовано: %1$s. Добавить в закладки <a href=\"%3$s\" title=\"%4$s\" rel=\"bookmark\">запись</a>."
+
+#: content.php:30
+#: page-templates/blog-full-width.php:40
+#: page-templates/blog-grid.php:40
+#, php-format
+#@ Formation
+msgid "Posted in %1$s"
+msgstr "Опубликовано: %1$s"
+
+#: content.php:41
+#: page-templates/blog-full-width.php:51
+#: page-templates/blog-grid.php:51
+#, php-format
+#@ Formation
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: content.php:62
+#: page-templates/blog-full-width.php:68
+#: page-templates/blog-grid.php:64
+#@ Formation
+msgid "Read More"
+msgstr "Читать далее"
+
+#: footer.php:21
+#: footer.php:30
+#: footer.php:40
+#: page-templates/twocolleftsidebar.php:31
+#@ Formation
+msgid "Widget Ready"
+msgstr ""
+
+#: footer.php:22
+#: page-templates/twocolleftsidebar.php:32
+#@ Formation
+msgid "This left column is widget ready! Add one in the admin panel."
+msgstr ""
+
+#: footer.php:31
+#@ Formation
+msgid "This center column is widget ready! Add one in the admin panel."
+msgstr ""
+
+#: footer.php:41
+#@ Formation
+msgid "This right column is widget ready! Add one in the admin panel."
+msgstr ""
+
+#: footer.php:48
+#, php-format
+#@ Formation
+msgid "Powered by %1$s. %2$s theme by %3$s."
+msgstr ""
+
+#: functions.php:56
+#@ Formation
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:110
+#@ Formation
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:119
+#@ Formation
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: functions.php:128
+#@ Formation
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:137
+#@ Formation
+msgid "Left Footer Column"
+msgstr ""
+
+#: functions.php:139
+#@ Formation
+msgid "Widget area for footer left column"
+msgstr ""
+
+#: functions.php:146
+#@ Formation
+msgid "Center Footer Column"
+msgstr ""
+
+#: functions.php:148
+#@ Formation
+msgid "Widget area for footer center column"
+msgstr ""
+
+#: functions.php:155
+#@ Formation
+msgid "Right Footer Column"
+msgstr ""
+
+#: functions.php:157
+#@ Formation
+msgid "Widget area for footer right column"
+msgstr ""
+
+#: functions.php:232
+#: functions.php:240
+#@ Formation
+msgid "Logo"
+msgstr "Логотип"
+
+#: functions.php:233
+#@ Formation
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Загрузить свой логотип"
+
+#: functions.php:254
+#@ Formation
+msgid "Contact Details"
+msgstr "Контакты"
+
+#: functions.php:255
+#@ Formation
+msgid "This is a settings section to change the contact details in the header."
+msgstr "Здесь можете добавить свои контакты, которые будут отображаться в шапке."
+
+#: functions.php:262
+#@ Formation
+msgid "Default Contact Details"
+msgstr "Контакты по умолчанию"
+
+#: functions.php:269
+#@ Formation
+msgid "Contact Details Text"
+msgstr "Текст контактов"
+
+#: functions.php:284
+#@ Formation
+msgid "Featured Text Area"
+msgstr "Секция избранного в шапке"
+
+#: functions.php:285
+#: functions.php:330
+#: functions.php:405
+#: functions.php:479
+#@ Formation
+msgid "This is a settings section to change the homepage featured text area."
+msgstr "&nbsp;"
+
+#: functions.php:292
+#: functions.php:307
+#@ Formation
+msgid "Default Featured Text"
+msgstr "Текст"
+
+#: functions.php:299
+#@ Formation
+msgid "Featured Text Header"
+msgstr "Текст заголовка"
+
+#: functions.php:314
+#@ Formation
+msgid "Featured Text"
+msgstr "Текст описания"
+
+#: functions.php:329
+#@ Formation
+msgid "Featured Text Box 1"
+msgstr "Секция избранного 1"
+
+#: functions.php:342
+#@ Formation
+msgid "Header Image One File Upload"
+msgstr "Загрузите первое изображение"
+
+#: functions.php:354
+#: functions.php:429
+#: functions.php:503
+#@ Formation
+msgid "Header Image url"
+msgstr "url изображения"
+
+#: functions.php:363
+#: functions.php:438
+#: functions.php:512
+#@ Formation
+msgid "Default featured text Header"
+msgstr "Текст названия"
+
+#: functions.php:371
+#@ Formation
+msgid "Featured Header Text"
+msgstr "Текст названия"
+
+#: functions.php:380
+#: functions.php:455
+#: functions.php:529
+#@ Formation
+msgid "Default featured text"
+msgstr "Текст описания"
+
+#: functions.php:388
+#: functions.php:463
+#: functions.php:537
+#@ Formation
+msgid "Featured text"
+msgstr "Текст описания"
+
+#: functions.php:404
+#@ Formation
+msgid "Featured Text Box 2"
+msgstr "Секция избранного 2"
+
+#: functions.php:417
+#@ Formation
+msgid "Header Image Two File Upload"
+msgstr "Загрузите второе изображение"
+
+#: functions.php:446
+#: functions.php:520
+#@ Formation
+msgid "Featured Header text"
+msgstr "Текст названия"
+
+#: functions.php:478
+#@ Formation
+msgid "Featured Text Box 3"
+msgstr "Секция избранного 3"
+
+#: functions.php:491
+#@ Formation
+msgid "Header Image Three File Upload"
+msgstr "Загрузите третье изображение"
+
+#: functions.php:606
+#, php-format
+#@ Formation
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: functions.php:753
+#@ Formation
+msgid "Page"
+msgstr "Страница"
+
+#: header.php:56
+#@ Formation
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:57
+#@ Formation
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: image.php:24
+#, php-format
+#@ Formation
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Опубликовано: <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\" pubdate>%2$s</time></span> в <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> в <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:38
+#@ Formation
+msgid "&larr; Previous"
+msgstr "&larr; Назад"
+
+#: image.php:39
+#@ Formation
+msgid "Next &rarr;"
+msgstr "Вперед &rarr;"
+
+#: image.php:92
+#, php-format
+#@ Formation
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Оставить комментарий</a> или трекбек: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:94
+#, php-format
+#@ Formation
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Комментарии закрыты, но вы можете оставить трекбек: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:96
+#@ Formation
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Трекбеки закрыты, но вы можете <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">оставить комментарий</a>."
+
+#: image.php:98
+#@ Formation
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Комментарии и трекбеки закрыты."
+
+#: inc/customizer.php:96
+#@ Formation_basic
+msgid "Twitter url:"
+msgstr ""
+
+#: inc/customizer.php:116
+#@ Formation_basic
+msgid "Facebook url:"
+msgstr ""
+
+#: inc/customizer.php:136
+#@ Formation_basic
+msgid "Google + url:"
+msgstr ""
+
+#: inc/customizer.php:156
+#@ Formation_basic
+msgid "LinkedIn url:"
+msgstr ""
+
+#: inc/customizer.php:176
+#@ Formation_basic
+msgid "Flickr url:"
+msgstr ""
+
+#: inc/customizer.php:196
+#@ Formation_basic
+msgid "Pinterest url:"
+msgstr ""
+
+#: inc/customizer.php:216
+#@ Formation_basic
+msgid "YouTube url:"
+msgstr ""
+
+#: inc/customizer.php:236
+#@ Formation_basic
+msgid "Vimeo url:"
+msgstr ""
+
+#: inc/customizer.php:256
+#@ Formation_basic
+msgid "Tumblr url:"
+msgstr ""
+
+#: inc/customizer.php:276
+#@ Formation_basic
+msgid "Dribble url:"
+msgstr ""
+
+#: inc/customizer.php:296
+#@ Formation_basic
+msgid "Github url:"
+msgstr ""
+
+#: inc/template-tags.php:39
+#@ Formation
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/template-tags.php:43
+#@ Formation
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:44
+#@ Formation
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:49
+#@ Formation
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: inc/template-tags.php:53
+#@ Formation
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:78
+#@ Formation
+msgid "Pingback:"
+msgstr "Пингбек:"
+
+#: inc/template-tags.php:78
+#: inc/template-tags.php:101
+#@ Formation
+msgid "(Edit)"
+msgstr "Изменить"
+
+#: inc/template-tags.php:88
+#, php-format
+#@ Formation
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">пишет:</span>"
+
+#: inc/template-tags.php:91
+#@ Formation
+msgid "Your comment is awaiting moderation."
+msgstr "Комментарий ожидает модерации."
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:99
+#, php-format
+#@ Formation
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: inc/template-tags.php:126
+#, php-format
+#@ Formation
+msgid " <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr " <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline\"> Автор: <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:132
+#, php-format
+#@ Formation
+msgid "View all posts by %s"
+msgstr "Все записи автора: %s"
+
+#: no-results.php:14
+#@ Formation
+msgid "Nothing Found"
+msgstr "Ничего не найдено."
+
+#: no-results.php:20
+#, php-format
+#@ Formation
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Вперед</a>."
+
+#: no-results.php:24
+#@ Formation
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "К сожалению, ничего не найдено."
+
+#: no-results.php:29
+#@ Formation
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "К сожалению, ничего не найдено."
+
+#: page-templates/custom_home.php:45
+#: page-templates/custom_home.php:57
+#: page-templates/custom_home.php:69
+#@ formation
+msgid "Insert Image"
+msgstr ""
+
+#: search.php:12
+#, php-format
+#@ Formation
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: searchform.php:10
+#: searchform.php:12
+#@ Formation
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:11
+#@ Formation
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: sidebar.php:25
+#@ Formation
+msgid "Meta"
+msgstr "Мета"
+

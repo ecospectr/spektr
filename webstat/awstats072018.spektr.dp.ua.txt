@@ -1,0 +1,365 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.spektr.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2664                
+POS_VISITOR 8384                
+POS_DAY 9628                
+POS_DOMAIN 3226                
+POS_LOGIN 3455                
+POS_ROBOT 3610                
+POS_WORMS 4096                
+POS_EMAILSENDER 4227                
+POS_EMAILRECEIVER 4370                
+POS_SESSION 10056               
+POS_SIDER 10213               
+POS_FILETYPES 4505                
+POS_DOWNLOADS 4616                
+POS_OS 4664                
+POS_BROWSER 4818                
+POS_SCREENSIZE 5186                
+POS_UNKNOWNREFERER 5260                
+POS_UNKNOWNREFERERBROWSER 5347                
+POS_ORIGIN 5429                
+POS_SEREFERRALS 5563                
+POS_PAGEREFS 5707                
+POS_SEARCHWORDS 5940                
+POS_KEYWORDS 6092                
+POS_MISC 2328                
+POS_ERRORS 6151                
+POS_CLUSTER 3311                
+POS_SIDER_404 6261                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801044112 1 0 11497086777595
+FirstTime 0
+LastTime 20180731223148
+LastUpdate 20180802000353 1 0 0 0 0
+TotalVisits 48                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 4 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 58 58 124410 7 9 860
+1 2 2 0 4 8 2227
+2 1 1 0 2 3 444
+3 5 5 0 7 17 67730
+4 0 0 0 4 4 973
+5 1 1 0 22 25 6787
+6 3 3 0 3 6 826
+7 0 0 0 2 3 1020
+8 2 2 0 2 3 518
+9 0 0 0 3 3 410
+10 6 6 0 3 4 641
+11 2 2 0 8 13 4633
+12 4 4 0 2 7 3225
+13 2 2 0 6 10 11099
+14 3 3 0 4 5 664
+15 2 2 0 2 5 1537
+16 0 0 0 2 6 1518
+17 3 3 0 3 5 1461
+18 0 0 0 6 18 104662
+19 2 2 0 1 2 3147
+20 2 2 0 4 6 1661
+21 2 2 0 0 0 0
+22 1 1 0 4 6 3426
+23 12 12 709485 3 7 1075
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 113 113 833895
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+yandex 23 82567 20180731232553 0
+googlebot 22 111638 20180731174701 0
+dataprovider\.com 2 0 20180717031926 0
+python 2 0 20180709033332 0
+mail\.ru 2 0 20180707100205 0
+no_user_agent 1 0 20180723015105 0
+netcraft 1 0 20180704011622 0
+wordpress 1 0 20180708223308 0
+bingbot 1 0 20180718181004 0
+ips\-agent 1 0 20180721051613 0
+mj12bot 1 0 20180723064922 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 50 0 0 0
+xml 1 1045 0 0
+php 62 832850 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win10 82 82
+linux 5 5
+linuxandroid 2 2
+macosx 20 20
+winlong 1 1
+win2000 1 1
+macosx10 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+firefox18.0 1 1
+firefox50.0 9 9
+chrome61.0.3163.100 13 13
+chrome69.0.3452.0 2 2
+firefox30.0 1 1
+firefox59.0 2 2
+chrome45.0.2454.93 12 12
+chrome58.0.3029.110 3 3
+chrome37.0.2062.120 2 2
+chrome45.0.2454.94 1 1
+msie5.01 1 1
+chrome52.0.2743.116 2 2
+chrome67.0.3396.87 4 4
+chrome67.0.3396.99 1 1
+chrome63.0.3239.132 59 59
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 83 83
+From1 0 0
+From2 0 0
+From3 3 3
+From4 27 27
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://burger-imperia.com 1 1
+https://l.facebook.com 1 1
+http://pizza-tycoon.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 109 21509
+500 1 310
+403 4 944
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 45
+/xml.php 2 -
+/wp-content/uploads/apache-conf.php 2 -
+/connectors/system/phpthumb.php 4 -
+//wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+//wp-content/plugins/mailpress/mp-includes/action.php 2 -
+/libraries/phputf8/xost-locale.php 1 -
+/andela.php 1 -
+/b.php 1 -
+/impo.php 1 -
+/wp-content/plugins/ubh/up.php 1 http://spektr.dp.ua/wp-content/plugins/ubh/up.php
+//new/wp-admin/setup-config.php 1 -
+/wp-content/plugins/shortcodes-ultimate/assets/css/rtl-admin.css 1 http://spektr.dp.ua/wp-content/plugins/shortcodes-ultimate/assets/css/rtl-admin.css
+/tmp.php 1 -
+//wp/wp-admin/setup-config.php 1 -
+/dbs.php 2 -
+/sftp-config.json 1 -
+/wp-content/plugins/x.php 1 -
+/wp-content/themes/wso_base.php 1 -
+/xxx.php 1 -
+/sitemap.xml 1 -
+/login.php 1 http://spektr.dp.ua/login.php
+/meta.php 1 -
+/ads.txt 1 -
+/wp-content/plugins/mailpress/mp-admin/css/user.css 1 http://spektr.dp.ua/wp-content/plugins/mailpress/mp-admin/css/user.css
+/robots.txt 48 -
+/wp-content/wordpress_cache.php 1 -
+/wp-json/wp/v2/users/ 2 -
+/wp-content/plugins/xaisyndicate/dicates.php 1 -
+/content-post.php 1 -
+//wordpress/wp-admin/setup-config.php 1 -
+/wp-content/themes/jetpack-log.php 1 -
+/favicon.png 1 -
+/wp-content/plugins/page-google-maps/css/default.css 1 http://spektr.dp.ua/wp-content/plugins/page-google-maps/css/default.css
+/jahat.php 1 -
+/wp-content/plugins/JumanNafis/Vand.php 1 http://spektr.dp.ua/wp-content/plugins/JumanNafis/Vand.php
+/wp-content/newsr.php 1 -
+/CI.php 1 -
+/log.php 1 -
+/ 7 -
+/wp-content/themes/red.lib.php 1 -
+/wp-content/plugins/woocommerce-products-filter/css/front.css 1 http://spektr.dp.ua/wp-content/plugins/woocommerce-products-filter/css/front.css
+/wp-content/uploader.php.suspected 1 http://spektr.dp.ua/wp-content/uploader.php.suspected
+/wp-content/inc.php 1 -
+/404.php 4 -
+/sq52zr.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+185.183.106.169 57 57 124410 20180730002523
+52.53.201.78 13 13 0 20180731223148
+210.140.152.114 9 9 709485 20180702230555
+166.62.126.3 3 3 0 20180722175436
+66.70.225.224 2 2 0 20180702232318
+176.56.224.115 2 2 0 20180727144617
+202.46.56.62 1 1 0 20180727132157
+178.137.88.27 1 1 0 20180721200344
+139.81.25.19 1 1 0 20180720033137
+202.46.54.28 1 1 0 20180720101553
+54.242.17.207 1 1 0 20180727035201
+64.246.165.140 1 1 0 20180709201452
+173.212.233.72 1 1 0 20180705005710
+188.93.56.216 1 1 0 20180706121841
+202.46.53.153 1 1 0 20180722191917
+202.46.54.116 1 1 0 20180718124144
+202.46.51.112 1 1 0 20180716065119
+202.46.52.105 1 1 0 20180716113323
+202.46.53.91 1 1 0 20180705023742
+134.249.141.24 1 1 0 20180723102352
+77.123.125.176 1 1 0 20180706232443
+202.46.52.108 1 1 0 20180721054240
+202.46.53.17 1 1 0 20180713123344
+216.74.106.89 1 1 0 20180705082027
+191.101.126.84 1 1 0 20180726100217
+202.46.58.161 1 1 0 20180708144302
+202.46.58.13 1 1 0 20180704010238
+64.246.165.50 1 1 0 20180727155153
+158.69.117.141 1 1 0 20180717031927
+202.46.50.159 1 1 0 20180709031532
+109.86.71.21 1 1 0 20180713130630
+80.82.70.116 1 1 0 20180725124719
+185.220.101.12 1 1 0 20180726011414
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20180702 12 12 709485 3
+20180704 3 3 0 3
+20180705 3 3 0 3
+20180706 3 3 0 3
+20180708 1 1 0 1
+20180709 3 3 0 3
+20180712 1 1 0 1
+20180713 3 3 0 3
+20180716 3 3 0 3
+20180717 1 1 0 1
+20180718 2 2 0 2
+20180720 3 3 0 3
+20180721 2 2 0 2
+20180722 3 3 0 3
+20180723 2 2 0 2
+20180725 2 2 0 2
+20180726 2 2 0 2
+20180727 5 5 0 5
+20180729 1 1 0 1
+20180730 57 57 124410 1
+20180731 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 46
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 50 0 47 46
+/xmlrpc.php 35 727890 1 1
+/wp-login.php 27 104960 0 1
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+END_SIDER

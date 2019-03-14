@@ -1,0 +1,327 @@
+AWSTATS DATA FILE 7.1 (build 1.983)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.spektr.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2674                
+POS_VISITOR 7330                
+POS_DAY 8523                
+POS_DOMAIN 3425                
+POS_LOGIN 3655                
+POS_ROBOT 3810                
+POS_WORMS 3983                
+POS_EMAILSENDER 4114                
+POS_EMAILRECEIVER 4257                
+POS_SESSION 8708                
+POS_SIDER 8904                
+POS_FILETYPES 4392                
+POS_DOWNLOADS 4674                
+POS_OS 4945                
+POS_BROWSER 5026                
+POS_SCREENSIZE 5178                
+POS_UNKNOWNREFERER 5252                
+POS_UNKNOWNREFERERBROWSER 5820                
+POS_ORIGIN 6010                
+POS_SEREFERRALS 6148                
+POS_PAGEREFS 6292                
+POS_SEARCHWORDS 6581                
+POS_KEYWORDS 6733                
+POS_MISC 2337                
+POS_ERRORS 6792                
+POS_CLUSTER 3511                
+POS_SIDER_404 6913                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301003055 1 0 9236698737332
+FirstTime 20150201012610
+LastTime 20150205094812
+LastUpdate 20150302000511 1 0 0 0 0
+TotalVisits 78                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 32                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 70 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 21527 35 43 32382
+1 10 14 164544 36 46 139611
+2 4 4 84382 27 34 106335
+3 5 5 26252 33 38 69481
+4 3 5 110249 26 34 45423
+5 11 45 723125 42 54 37693
+6 15 41 620036 26 41 26353
+7 8 13 175883 38 53 36506
+8 9 9 206120 67 77 78180
+9 4 7 96515 39 51 38550
+10 31 63 556067 52 70 49197
+11 24 27 262838 34 50 37987
+12 34 34 85052 34 47 36237
+13 30 30 1780 47 72 55512
+14 32 32 94808 33 45 32798
+15 34 56 502085 37 45 34255
+16 17 40 482637 25 33 24452
+17 4 4 31832 30 36 27756
+18 2 2 21222 73 85 64417
+19 2 2 21470 41 54 41634
+20 3 3 43151 35 44 33924
+21 10 10 108472 59 72 71785
+22 2 2 43766 38 46 33569
+23 5 5 2288 42 50 37987
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 303 457 4486101
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 13 278062 20150201085556 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 9 184680 0 0
+css 37 401906 0 0
+png 42 146408 0 0
+ttf 3 145440 0 0
+woff 3 68832 0 0
+php 205 519916 0 0
+html 83 1985252 0 0
+js 54 728112 0 0
+jpg 9 0 0 0
+jpeg 2 0 0 0
+gif 5 11121 0 0
+svg 3 219682 0 0
+xls 2 74752 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/wp-content/uploads/2014/12/%D0%9F%D1%80%D0%B0%D0%B9%D1%81-%D0%9F%D0%B5%D1%80%D0%B5%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BA%D0%B0-%D0%BE%D0%B3%D0%BD%D0%B5%D1%82%D1%83%D1%88%D0%B8%D0%BB%D0%B5%D0%B9-%D1%81-01.11.14.xls 2 0 74752
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 149 108
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 6
+msie8.0 42 8
+safari6.0 4 4
+firefox3.5.2 1 1
+chrome40.0.2214.93 238 181
+Unknown 29 29
+firefox35.0 23 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_meanpathbot/1.0;__http://www.meanpath.com/meanpathbot.html) 20150201074103
+Mozilla/5.0_(compatible;_Googlebot/2.1;__http://www.google.com/bot.html) 20150205073423
+WordPress/4.0.1;_http://spektr.dp.ua 20150205073424
+Mozilla/5.0_(compatible;_archive.org_bot__http://www.archive.org/details/archive.org_bot) 20150201072716
+WordPress/4.0.1;_http://spektr.dp.ua/ukr 20150205062353
+Mozilla/5.0_(compatible;_YandexBot/3.0;__http://yandex.com/bots) 20150205094812
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.0.1;_http://spektr.dp.ua 20150205073424
+WordPress/4.0.1;_http://spektr.dp.ua/ukr 20150205062353
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 105 118
+From1 0 0
+From2 0 0
+From3 5 5
+From4 193 334
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://yandex.ru/yandsearch 2 2
+http://whois.domaintools.com/spektr.dp.ua 1 1
+https://www.google.com.ua 1 1
+http://www.google.com.ua/url 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 1081 833451
+302 3 0
+404 42 26943
+301 11 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/ 1 -
+/poslednie-novosti/ 1 -
+/robots.txt 38 -
+/provoda-bez-izolyatsii.html 1 -
+/kabeli-kontrolnye.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 32
+77.239.184.79 180 214 682156 20150203162454
+5.255.253.205 61 63 1205618 20150205094812
+195.248.190.128 29 29 0 20150205073424
+188.32.239.183 4 21 329085 20150202061338
+66.249.78.169 4 5 85560 20150203113435
+176.195.160.166 4 21 417738 20150202052131
+207.241.237.102 3 3 102337 20150201060008
+207.241.237.206 2 2 37880 20150201072303
+66.249.67.64 2 6 187859 20150205054143
+66.249.67.80 2 5 103325 20150204051549
+207.241.229.149 0 1 258 
+178.94.14.185 1 24 366244 20150203164846
+207.241.237.221 0 1 477 
+199.21.99.209 1 1 21883 20150202062506
+207.241.237.209 0 1 412 
+207.241.237.229 0 1 2893 
+207.241.237.103 0 1 563 
+66.249.67.72 1 2 21916 20150205073423
+66.249.78.176 0 2 52419 
+207.241.237.222 0 2 101198 
+207.241.237.226 0 3 20606 
+207.241.229.198 1 1 26647 20150201050916
+207.241.237.220 0 1 400 
+64.246.161.42 1 1 21883 20150203010640
+192.99.107.10 1 1 21883 20150201074103
+207.241.237.208 0 1 617 
+207.241.237.105 1 6 169428 20150201044220
+207.241.237.227 0 1 9427 
+78.152.161.139 1 23 366062 20150204151441
+207.241.237.101 2 11 48238 20150201065717
+66.249.78.162 2 2 80803 20150203082417
+207.241.229.212 0 1 286 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20150201 17 45 585905 14
+20150202 22 60 997477 15
+20150203 210 271 1614759 21
+20150204 38 60 1020602 15
+20150205 16 21 267358 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 4
+5mn-15mn 4
+15mn-30mn 5
+30s-2mn 1
+0s-30s 62
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/wp-admin/admin-ajax.php 166 39662 0 1
+/ 50 1588873 32 31
+/ukr/ 32 343259 13 11
+/wp-cron.php 17 0 17 15
+/ukr/wp-cron.php 12 0 10 12
+/wp-content/themes/formation/font/sourcesanspro-regular-webfont.eot 3 80859 0 1
+/wp-content/themes/formation/font/genericons-regular-webfont.eot 3 23880 1 3
+/wp-content/themes/formation/font/sourcesanspro-bold-webfont.eot 3 79941 1 1
+/wp-admin/load-scripts.php 2 45039 0 0
+/wp-admin/edit-comments.php 2 99703 0 0
+/wp-content/themes/formation/font/genericons-regular-webfont.ttf 1 14292 0 1
+/wp-admin/users.php 1 36698 0 0
+/wp-content/themes/formation/font/sourcesanspro-regular-webfont.ttf 1 66144 0 0
+/wp-content/themes/formation/font/sourcesanspro-bold-webfont.woff 1 29672 1 0
+/wp-admin/ 1 53120 0 0
+/wp-content/themes/formation/font/genericons-regular-webfont.woff 1 9240 1 0
+/wp-content/themes/formation/font/sourcesanspro-bold-webfont.ttf 1 65004 1 1
+/wp-admin/post.php 1 159859 0 0
+/wp-admin/plugins.php 1 44484 0 0
+/wp-admin/upload.php 1 91663 0 0
+/wp-content/themes/formation/font/sourcesanspro-regular-webfont.woff 1 29920 1 1
+/wp-login.php 1 2766 0 0
+/ukr/xmlrpc.php 1 42 0 0
+END_SIDER

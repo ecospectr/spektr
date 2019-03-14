@@ -1,0 +1,386 @@
+AWSTATS DATA FILE 7.4 (build 20150714)
+# If you remove this file, all statistics for date 201801 will be lost/reset.
+# Last config file used to build this data file was /usr/local/etc/awstats/awstats.spektr.dp.ua.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2005                
+POS_TIME 2677                
+POS_VISITOR 8496                
+POS_DAY 9873                
+POS_DOMAIN 3299                
+POS_LOGIN 3529                
+POS_ROBOT 3684                
+POS_WORMS 4358                
+POS_EMAILSENDER 4489                
+POS_EMAILRECEIVER 4632                
+POS_SESSION 10416               
+POS_SIDER 10573               
+POS_FILETYPES 4767                
+POS_DOWNLOADS 4868                
+POS_OS 4916                
+POS_BROWSER 5064                
+POS_SCREENSIZE 5527                
+POS_UNKNOWNREFERER 5601                
+POS_UNKNOWNREFERERBROWSER 5688                
+POS_ORIGIN 5770                
+POS_SEREFERRALS 5906                
+POS_PAGEREFS 6061                
+POS_SEARCHWORDS 6335                
+POS_KEYWORDS 6487                
+POS_MISC 2340                
+POS_ERRORS 6546                
+POS_CLUSTER 3385                
+POS_SIDER_404 6652                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180201015756 1 0 9680549600687
+FirstTime 20180101201757
+LastTime 20180131225047
+LastUpdate 20180202000400 1 0 0 0 0
+TotalVisits 49                  
+TotalUnique 36                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+AddToFavourites 0 14 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 9 12 25278
+1 1 1 0 192 202 11194670
+2 3 3 0 6 14 125233
+3 0 0 0 1 3 1102
+4 10 10 709485 4 9 2756
+5 2 2 0 19 28 8921
+6 3 3 172 6 8 2654
+7 0 0 0 1 4 458790
+8 7 7 203291 1 2 208
+9 6 6 203290 2 5 1669
+10 1 1 0 6 9 4536
+11 3 3 3925 0 2 1102
+12 65 65 60141 10 19 19357
+13 2 2 0 4 6 1667
+14 2 2 0 8 21 285689
+15 2 2 0 7 11 1865
+16 3 3 1460 6 12 4432
+17 2 2 0 8 14 3461
+18 2 2 0 3 8 1848
+19 6 6 203290 10 19 7158
+20 5 5 0 10 12 2774
+21 2 2 0 18 25 4076
+22 1 1 0 6 9 2315
+23 3 3 10869 12 18 7737
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 132 132 1395923
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+no_user_agent 188 10813565 20180128030922 0
+googlebot 52 651710 20180131160056 0
+yandex 30 638599 20180131190337 0
+wordpress 9 0 20180110125502 0
+dataprovider\.com 2 0 20180117055033 0
+surveybot 2 0 20180128230539 0
+bingbot 2 22625 20180123195756 0
+slurp 1 0 20180103170148 0
+googlebot\-image 1 0 20180125102813 0
+netcraft 1 0 20180104130319 0
+archive\.org_bot 1 0 20180110040546 0
+python 1 0 20180117022133 0
+[\s_+:,\.\;\/\\-]bot 1 0 20180101201756 0
+crawl 1 0 20180106141832 0
+ips\-agent 1 0 20180111223407 0
+mail\.ru 1 0 20180125211235 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 83 1375772 0 0
+html 49 20151 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxandroid 3 3
+winxp 2 2
+win10 95 95
+win7 7 7
+win2000 2 2
+macosx 14 14
+linux 9 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+firefox48.0 21 21
+firefox58.0 1 1
+firefox17.0 2 2
+msie5.01 2 2
+chrome61.0.3163.100 72 72
+firefox26.0 1 1
+firefox30.0 1 1
+firefox57.0 3 3
+chrome45.0.2454.94 1 1
+chrome58.0.3029.110 4 4
+firefox18.0 1 1
+mozilla 2 2
+chrome37.0.2062.120 7 7
+chrome42.0.2311.152 1 1
+chrome63.0.3239.132 1 1
+chrome45.0.2454.93 5 5
+opera12.01 1 1
+chrome31.0.1623.0 1 1
+msie6.0 1 1
+netscape7.1 1 1
+firefox50.0 1 1
+chrome63.0.3239.111 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 116 116
+From1 0 0
+From2 2 2
+From3 10 10
+From4 4 4
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://burger-imperia.com 5 5
+http://pizza-tycoon.com 2 2
+http://mad.odessa.net 2 2
+http://uaonline.info/ua/spektr.dp.ua/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 2 0
+404 161 31177
+302 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 40
+/kabeli-upravleniya-1.html 2 -
+/kabeli-izmeritelnye-termoradiatsionnostoykie.html 4 -
+/KlfhsYYs 1 -
+/lost-password.html 2 -
+/provoda-samye-luchshie.html 2 -
+/karta-sayta/ 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/error.php 2 -
+/kabeli-silovye.html 1 -
+/kontakty/kontakty-ooo-spektr/ 2 -
+/wp-json/wp/v2/users/ 1 -
+/wp-press.php 1 http://spektr.dp.ua/wp-press.php
+/security-e.php 2 -
+/feed/ 1 -
+/wp-link.php 1 http://spektr.dp.ua/wp-link.php
+/xx2.php 1 http://spektr.dp.ua/xx2.php
+/aboutt-us/ 2 -
+/wp-content/plugins/ubh/up.php 1 http://spektr.dp.ua/wp-content/plugins/ubh/up.php
+/wp-info.php 1 http://spektr.dp.ua/wp-info.php
+/wp-content/wp-object-cache.php 1 http://spektr.dp.ua/wp-content/wp-object-cache.php
+/favicon.png 1 -
+/wp-content/plugins/index.lib.php 1 http://spektr.dp.ua/wp-content/plugins/index.lib.php
+/stati/ 2 -
+/o-nas.html 2 -
+/modx.php 1 http://spektr.dp.ua/modx.php
+/provoda-kak-provoda.html 2 -
+/sitemap.xml 1 -
+/wp-content/plugins/linklove/linklove.php 1 http://spektr.dp.ua/wp-content/plugins/linklove/linklove.php
+/provoda-s-izolyatsiey.html 2 -
+/kickstart.php 1 -
+/create-customer-account.html 2 -
+/wp-content/uploader.php.suspected 1 http://spektr.dp.ua/wp-content/uploader.php.suspected
+/poslednie-novosti/ 3 -
+/katalog-produktsii.html 2 -
+/wp-credits.php 2 -
+/ 15 -
+/lost-user-name.html 3 -
+/robots.txt 85 -
+/provoda-bez-izolyatsii.html 2 -
+/kabeli-elektricheskie-pozharostoykie-spetsialnogo-naznacheniya.html 1 -
+/wp-content/uploader.php 1 http://spektr.dp.ua/wp-content/uploader.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+51.4.207.124 62 62 41899 20180130121037
+162.144.155.32 12 12 609870 20180121080131
+13.56.229.65 10 10 0 20180130174007
+108.61.207.194 9 9 709485 20180109043424
+212.33.255.53 3 3 0 20180127180542
+185.212.171.115 2 2 18242 20180120125718
+51.15.138.248 2 2 0 20180109155331
+138.201.146.154 2 2 0 20180129134113
+192.36.27.7 2 2 0 20180122145511
+46.219.240.68 2 2 0 20180125234555
+185.220.101.34 1 1 0 20180121200649
+93.174.93.71 1 1 0 20180103020824
+39.137.83.133 1 1 3925 20180125112105
+5.101.191.45 1 1 1 20180130082807
+144.217.66.151 1 1 0 20180117055034
+61.154.29.80 1 1 0 20180125021353
+178.171.21.165 1 1 0 20180105114935
+163.172.255.139 1 1 10869 20180113230028
+146.185.223.202 1 1 0 20180131225047
+202.46.51.30 1 1 0 20180116110906
+202.46.51.195 1 1 0 20180123175818
+38.131.152.135 1 1 0 20180130205756
+185.87.185.45 1 1 0 20180102190226
+185.220.101.41 1 1 0 20180121162521
+202.46.53.192 1 1 0 20180128165005
+217.69.143.217 1 1 0 20180117040126
+202.46.56.64 1 1 0 20180128022637
+65.19.167.131 1 1 0 20180102201115
+109.86.72.163 1 1 0 20180122123949
+69.171.215.163 1 1 0 20180126002847
+95.213.141.124 1 1 0 20180110212740
+5.44.168.47 1 1 1460 20180129160659
+52.16.245.7 1 1 0 20180105181536
+179.61.255.248 1 1 0 20180114053846
+202.46.48.135 1 1 0 20180120191320
+178.159.215.201 1 1 172 20180126064720
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20180101 1 1 0 1
+20180102 3 3 0 3
+20180103 1 1 0 1
+20180104 1 1 0 1
+20180105 3 3 0 3
+20180107 1 1 0 1
+20180109 12 12 709485 3
+20180110 1 1 0 1
+20180111 1 1 0 1
+20180113 2 2 10869 2
+20180114 1 1 0 1
+20180116 1 1 0 1
+20180117 6 6 203290 3
+20180118 4 4 203290 1
+20180120 4 4 18242 3
+20180121 6 6 203290 3
+20180122 3 3 0 2
+20180123 1 1 0 1
+20180124 1 1 0 1
+20180125 5 5 3925 4
+20180126 2 2 172 2
+20180127 1 1 0 1
+20180128 2 2 0 2
+20180129 3 3 1460 2
+20180130 65 65 41900 4
+20180131 1 1 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 48
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/xmlrpc.php 78 1361254 4 5
+/ 47 0 39 38
+/readme.html 1 10869 1 1
+/wp-admin/admin-ajax.php 1 1 1 1
+/wp-content/plugins/hello.php 1 172 1 1
+/wp-admin/install.php 1 1460 1 1
+/myadmin/index.php 1 8960 0 1
+/wp-login.php 1 3925 1 1
+/myadmin/ 1 9282 1 0
+END_SIDER
